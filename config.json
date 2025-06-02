@@ -1,0 +1,22 @@
+{
+    "concurrent_downloads": 5,
+    "chunk_size": 8192,
+    "resume_downloads": true,
+    "allowed_extensions": [
+        ".mp3",
+        ".mp4",
+        ".pdf",
+        ".zip",
+        ".rar",
+        ".exe",
+        ".msi"
+    ],
+    "min_bitrate": "none",
+    "max_retries": 7,
+    "initial_backoff": 1,
+    "download_folder": "C:/Users/theal/Desktop/gdf",
+    "language": "fa",
+    "theme": "light",
+    "multi_connection_parts": 4,
+    "adaptive_threshold": 0.05
+}
